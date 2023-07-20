@@ -1,13 +1,13 @@
 ## Hello, have you eaten yet?👋
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm Liu Nian
 
-- A Computer Engineering Undergraduate Student.
+- An undergraduate Student major in Computer Science.
 - 🌱 Currently working in South University of Science and Technology, China.
 - 💬 Ask me questions about repositories by e-mail at 12110416@mail.sustech.edu.cn.
-- ⭐ Now I am following my professor, Liu Jiang, to work on Medical imaging in iMed, Shenzhen.
-- ⚡ 
+- ⭐ Following by Jiang Liu to work on Deep Learning for Medical Imaging in iMed, Shenzhen.
+- ⚡ Can send me message if you have any problem blew.
+
 
 
 ### 关于我

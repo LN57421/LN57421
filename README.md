@@ -23,10 +23,13 @@ Here are some of the useful course I'v learned.
 - CS207 Digital Logic: Score `94`
 - CS202 Computer Organization: Score `94`
 - CS201 Discrete mathematics: Score `93`
-- CS205 C/CPP Design: Score `86` (followed by professor Shiqi, Yu)
+- CS205 C/CPP Design: Score `86` (followed by professor Shiqi, Yu, who I recommend)
 - CS203 Data Structure and Algorithm Analysis: Score `86`
+- CS208 Algorithm Design and Analysis: Score `89`
+- CS307 Database Principle: Score `88`(followed by professor Yuxin, Ma, who I recommend)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LN57421&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LN57421&layout=compact&langs_count=8)
+
 
 ⭐️ From [Nian]([https://github.com/JoeyBling](https://github.com/LN57421)https://github.com/LN57421)

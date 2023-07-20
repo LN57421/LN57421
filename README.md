@@ -6,7 +6,7 @@
 - 🌱 Currently working in South University of Science and Technology, China.
 - 💬 Ask me questions about repositories by e-mail at 12110416@mail.sustech.edu.cn.
 - ⭐ Following by Jiang Liu to work on Deep Learning for Medical Imaging in iMed, Shenzhen.
-- ⚡ Can send me message if you have any problem blew.
+- ⚡ Can send me message if you have any problem about sustech courses below.
 
 
 

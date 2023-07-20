@@ -29,7 +29,7 @@ Here are some of the useful course I'v learned.
 - CS307 Database Principle: Score `88`(followed by professor Yuxin, Ma, who I recommend)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LN57421&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LN57421&layout=compact&langs_count=12)
 
 
 ⭐️ From [Nian]([https://github.com/JoeyBling](https://github.com/LN57421)https://github.com/LN57421)

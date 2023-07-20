@@ -12,8 +12,6 @@
 
 > ***I am just an ordinary student***
 
-I have no P/F course, all the courses score >= 86.
-
 Here are some of the useful course I'v learned. 
 
 - CS102A Introduction to Computer Programming A:  Score `98`

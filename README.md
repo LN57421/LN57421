@@ -10,7 +10,7 @@
 
 ### About me
 
-> ***Just an ordinary student***
+> ***I am just an ordinary student***
 
 I have no P/F course, all the courses score >= 86.
 
@@ -23,7 +23,7 @@ Here are some of the useful course I'v learned.
 - CS207 Digital Logic: Score `94`
 - CS202 Computer Organization: Score `94`
 - CS201 Discrete mathematics: Score `93`
-- CS205 C/CPP Design: Score `86` (followed by professor Shiqi Yu)
+- CS205 C/CPP Design: Score `86` (followed by professor Shiqi, Yu)
 - CS203 Data Structure and Algorithm Analysis: Score `86`
 
 

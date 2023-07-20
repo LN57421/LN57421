@@ -10,7 +10,7 @@
 
 ### About me
 
-> ***Sorry, I am just an ordinary student***
+> ***Courses***
 
 Here are some of the useful course I'v learned. 
 

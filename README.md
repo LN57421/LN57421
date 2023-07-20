@@ -10,9 +10,13 @@
 
 ### About me
 
+> ***Language***
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LN57421&layout=compact&langs_count=12)
+
 > ***Courses***
 
-Here are some of the useful course I'v learned. 
+Here are some of the useful courses I'v learned.
 
 - CS102A Introduction to Computer Programming A:  Score `98`
 - MA102B Calculus I A：Score `88`
@@ -25,9 +29,6 @@ Here are some of the useful course I'v learned.
 - CS203 Data Structure and Algorithm Analysis: Score `86`
 - CS208 Algorithm Design and Analysis: Score `89`
 - CS307 Database Principle: Score `88`(followed by professor Yuxin, Ma, who I recommend)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LN57421&layout=compact&langs_count=12)
 
 
 ⭐️ From [Nian]([https://github.com/JoeyBling](https://github.com/LN57421)https://github.com/LN57421)

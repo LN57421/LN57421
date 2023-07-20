@@ -12,16 +12,17 @@
 
 > ***Just an ordinary student***
 
-Here are some of the course I'v learned. I have no P/F course, all the courses grade >= 86.
+Here are some of the useful course I'v learned. I have no P/F course, all the courses score >= 86.
 
-- CS102A Introduction to Computer Programming A:  Grade `A+`
-- MA102B Calculus I A：Grade `B+`
-- MA102B Calculus II A：Grade `A+`
-- MA107A Linear Algebra A: Grade `A-`
-- CS207 Digital Logic: Grade `A`
-- CS202 Computer Organization: Grade `A`
-- CS201 Discrete mathematics: Grade `A`
-- CS205 C/CPP Design: Grade `B` (followed professor Shiqi Yu)
+- CS102A Introduction to Computer Programming A:  Score `98`
+- MA102B Calculus I A：Score `88`
+- MA102B Calculus II A：Score `97`
+- MA107A Linear Algebra A: Score `92`
+- CS207 Digital Logic: Score `94`
+- CS202 Computer Organization: Score `94`
+- CS201 Discrete mathematics: Score `93`
+- CS205 C/CPP Design: Score `86` (followed by professor Shiqi Yu)
+- CS203 Data Structure and Algorithm Analysis: Score `86`
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LN57421&layout=compact)
 

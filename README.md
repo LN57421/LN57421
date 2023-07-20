@@ -11,6 +11,7 @@
 ### About me
 
 > ***Just an ordinary student***
+
 I have no P/F course, all the courses score >= 86.
 
 Here are some of the useful course I'v learned. 
@@ -24,6 +25,7 @@ Here are some of the useful course I'v learned.
 - CS201 Discrete mathematics: Score `93`
 - CS205 C/CPP Design: Score `86` (followed by professor Shiqi Yu)
 - CS203 Data Structure and Algorithm Analysis: Score `86`
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LN57421&layout=compact)
 

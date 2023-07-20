@@ -5,14 +5,15 @@
 - An undergraduate Student major in Computer Science.
 - 🌱 Currently working in South University of Science and Technology, China.
 - 💬 Ask me questions about repositories by e-mail at 12110416@mail.sustech.edu.cn.
-- ⭐ Following by Jiang Liu to work on Deep Learning for Medical Imaging in iMed, Shenzhen.
+- ⭐ Following by pro. Liu Jiang to work on Deep Learning for Medical Imaging in iMed, Shenzhen.
 - ⚡ Can send me message if you have any problem about Sustech courses below.
 
 ### About me
 
 > ***Just an ordinary student***
+I have no P/F course, all the courses score >= 86.
 
-Here are some of the useful course I'v learned. I have no P/F course, all the courses score >= 86.
+Here are some of the useful course I'v learned. 
 
 - CS102A Introduction to Computer Programming A:  Score `98`
 - MA102B Calculus I A：Score `88`

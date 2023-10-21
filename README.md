@@ -6,7 +6,7 @@
 - 🌱 Currently studying in Southern University of Science and Technology, China.
 - 💬 Ask me questions about repositories by e-mail at 12110416@mail.sustech.edu.cn.
 - ⭐ Following by pro. Liu Jiang to work on Deep Learning for Medical Imaging in iMed, Shenzhen.
-- ⚡ Can send me messages if you have any problem about any Sustech-Courses. All my courses score >= 86.
+- ⚡ Can send me messages if you have any problem about any Sustech-Courses.
 
 ### About me
 

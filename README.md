@@ -1,4 +1,4 @@
-## Hello, have you eaten yet?👋
+## Hello, 👋
 
 ### I'm Liu Nian
 

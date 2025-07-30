@@ -2,8 +2,8 @@
 
 ### I'm Liu Nian
 
-- An undergraduate Student major in Computer Science.
-- 🌱 Currently studying in National University of Singapore as NGNE students.
+- An Student major in Computer Science.
+- 🌱 Currently studying in National University of Singapore as Master of Computing students.
 - 💬 Ask me questions about repositories by e-mail at 12110416@mail.sustech.edu.cn or e1353839@u.nus.edu.
 - ⭐ Following by pro. Liu Jiang to work on Deep Learning for Medical Imaging in iMed, Shenzhen.
 - ⚡ Can send me messages if you have any problem about any Sustech-Courses.
